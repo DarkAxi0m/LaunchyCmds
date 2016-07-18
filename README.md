@@ -10,6 +10,10 @@ Disable/Enable Any Wifi Adapters, will ask for Admin permission
 * Wifi Off     
 * Wifi On
 
+Quick Config Support http://intelloware.com/
+* quick [tab] "profile name"
+
+
 # Install
 (TODO: Expand this)
 * Open Launchy Options
